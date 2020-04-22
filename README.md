@@ -40,7 +40,7 @@ We tested drone_application on one system configurations, using Ubuntu 16.04 (Xe
 
 In your ROS package path, clone the repository:
 
-    git clone https://cifucg@bitbucket.org/cifucg/trabajofingrado.git
+    git clone https://github.com/cifucg/ardrone_application_tfg
 
 Compile the package by typing:
     catkin_make
