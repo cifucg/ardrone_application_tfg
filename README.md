@@ -58,3 +58,7 @@ Compile the package by typing:
 * `method`: [string] The name of the algorithm that we are going to use to obtain the detection of people through computer vision. The implemented methods : HOG, CAFFE, YOLO.
 * `confidence`: [double] It is the amount with which the detection obtained by the chosen algorithm is correct for us. If the detection is below this value, it is discarded, while if it is higher it is accepted. Example: 0.1, 0.2, 0.9.
 * `environment`: [string] This variable configures the system according to the environment in which we are going to execute it. It can be simulated or real.
+
+## Copyright and License
+
+Copyright 2020 Cristian Cifuentes. Code released under the [MIT](https://github.com/cifucg/ardrone_application_tfg/LICENSE) license.
