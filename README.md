@@ -61,4 +61,4 @@ Compile the package by typing:
 
 ## Copyright and License
 
-Copyright 2020 Cristian Cifuentes. Code released under the [MIT](https://github.com/cifucg/ardrone_application_tfg/LICENSE) license.
+Copyright 2020 Cristian Cifuentes. Code released under the [MIT](https://github.com/cifucg/ardrone_application_tfg/blob/master/LICENSE) license.
